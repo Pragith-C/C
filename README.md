@@ -1,2 +1,2 @@
 # c
-Exercises and projects done in C
+Projects, Exercises, Fun in C
